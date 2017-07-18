@@ -61,7 +61,5 @@ public class MainActivity extends AppCompatActivity {
     });
     snackbar.setActionTextColor(color).show();
 
-
-
   }
 }
